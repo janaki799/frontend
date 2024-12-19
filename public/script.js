@@ -1,5 +1,5 @@
 // Constants
-const BACKEND_URL = 'http://localhost:3001';
+const BACKEND_URL = 'https://backend-6neiwxapc-janaki799s-projects.vercel.app';
 const COLLEGE_CODE = '8P';
 
 // Utility function to show/hide spinner
